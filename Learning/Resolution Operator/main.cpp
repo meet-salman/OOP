@@ -47,9 +47,9 @@ int main()
     cout << endl;
 
     Earbuds amgras;
-    bluks.setDetails("Future A8 Pro", "White", 5.3, 5, 2199);
-    bluks.getDetails();
-    bluks.powerOn();
+    amgras.setDetails("Future A8 Pro", "White", 5.3, 5, 2199);
+    amgras.getDetails();
+    amgras.powerOn();
 
     return 0;
 }
